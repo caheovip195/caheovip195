@@ -1,6 +1,9 @@
-### Hi there 👋
-### My name is Cong
-
+###Wellcome to my profile 🐷🐖
+My name is Cong . I am a FrontEnd develop
+with Flutter framework.
+I come from in Viet Nam 🇻🇳
+I like listen music when i have free time
+Follow me as to know more ....
 <!--
 **caheovip195/caheovip195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
